@@ -53,14 +53,11 @@ html,body{
 /*导航栏*/
 #i_dhl{
 	height: 7%;
-	width: 1500px;
-	position: absolute;
-    top: 0px;
-    left: 50%;
-    margin-left: -750px;
+	width: 100%;
 	/*border: 1px solid green;*/
 	position: fixed;
 	top:0px;
+	background: #FFF;
 	cursor: pointer;
 	z-index: 1000000000;
     
